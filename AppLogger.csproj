@@ -5,6 +5,11 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <PackageId>Contoso.Util.AppLogger</PackageId>
     <Authors>Contoso</Authors>
+    <RepositoryUrl>https://github.com/SashaPazyuk/AppLogger_NUGET.git</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>Loging</PackageTags>
+    <Description>AppLogger</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>

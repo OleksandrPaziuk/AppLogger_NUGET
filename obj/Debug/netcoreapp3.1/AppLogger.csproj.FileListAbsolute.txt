@@ -1,0 +1,4 @@
+C:\Users\Sasha\source\repos\AppLogger\obj\Debug\netcoreapp3.1\AppLogger.csprojAssemblyReference.cache
+C:\Users\Sasha\source\repos\AppLogger\obj\Debug\netcoreapp3.1\AppLogger.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\source\repos\AppLogger\obj\Debug\netcoreapp3.1\AppLogger.AssemblyInfoInputs.cache
+C:\Users\Sasha\source\repos\AppLogger\obj\Debug\netcoreapp3.1\AppLogger.AssemblyInfo.cs
